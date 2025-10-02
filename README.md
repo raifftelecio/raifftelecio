@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá, me chamo Raiff Ferreira Telecio, tenho 20 anos, e estou cursando Ciência da Computação pela Universidade Estadual da Paraíba (UEPB). No momento estou em busca de aprofundar e aprimorar meu conhecimento na área de desenvolvimento web.
+Olá, me chamo Raiff Ferreira Telecio, tenho 20 anos, e curso Ciência da Computação pela Universidade Estadual da Paraíba (UEPB). No momento estou em busca de aprofundar e aprimorar meu conhecimento na área de desenvolvimento web.
 
 <div> 
 <a href="https://www.linkedin.com/in/raiffftelecio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
