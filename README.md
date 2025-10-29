@@ -55,22 +55,6 @@ Olá, me chamo Raiff Ferreira Telecio, tenho 20 anos, e curso Ciência da Comput
 />
 <img 
     align="left" 
-    alt="bootstrap"
-    title="bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="sass"
-    title="sass" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
