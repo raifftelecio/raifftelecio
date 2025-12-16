@@ -120,7 +120,7 @@ Olá, me chamo Raiff Ferreira Telecio, tenho 20 anos, e curso Ciência da Comput
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    src="https://github-readme-stats.vercel.app/api?username=raifftelecio&show_icons=true&theme=merko"
   />
 
 <img 
